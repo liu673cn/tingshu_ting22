@@ -1,1 +1,6 @@
-{    "version": 1,    "entry_package": "sources_by_ting222",    "download_url": "https://eprendre2.coding.net/p/tingshu/d/tingshu/git/raw/master/TingShuSources/sources_by_eprendre.jar",    "update_msg": "修复有兔阅读播放报错的问题"}
+{
+    "version": 1,
+    "entry_package": "sources_by_ting222",
+    "download_url": "https://tingshu1.coding.net/p/tingshu_ting22/d/tingshu_ting22/git/raw/master/sources_by_ting222.jar",
+    "update_msg": "自己弄的Ting22书源"
+}
