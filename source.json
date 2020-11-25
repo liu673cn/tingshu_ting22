@@ -1,6 +1,6 @@
 {
-    "version": 2,
+    "version": 3,
     "entry_package": "sources_by_ting222",
     "download_url": "https://tingshu1.coding.net/p/tingshu_ting22/d/tingshu_ting22/git/raw/master/sources_by_ting222.jar",
-    "update_msg": "添加电脑版的六月听书，去除了广告"
+    "update_msg": "添加电脑版的六月听书，去除了广告，优化部分代码"
 }
