@@ -1,6 +1,6 @@
 {
-    "version": 6,
+    "version": 7,
     "entry_package": "sources_by_gezidan",
     "download_url": "https://tingshu1.coding.net/p/tingshu_ting22/d/tingshu_ting22/git/raw/master/sources_by_gezidan.jar",
-    "update_msg": "添加有声听书吧" 
+    "update_msg": "添加88听书网，优化部分代码" 
 }
