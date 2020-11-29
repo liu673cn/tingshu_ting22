@@ -1,6 +1,7 @@
 {
-    "version": 8,
+    "version": 9,
     "entry_package": "sources_by_gezidan",
     "download_url": "https://tingshu1.coding.net/p/tingshu_ting22/d/tingshu_ting22/git/raw/master/sources_by_gezidan.jar",
-    "update_msg": "添加54听书网和懒人听书（伪），就是教程里的那个" 
+    "update_msg": "添加56听书网和有声天下",
+    "support_url": "https://tingshu1.coding.net/p/tingshu_ting22/d/tingshu_ting22/git/raw/master/1606634160547.png?download=true" 
 }
