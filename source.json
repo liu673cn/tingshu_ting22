@@ -1,7 +1,7 @@
 {
-    "version": 15,
+    "version": 16,
     "entry_package": "sources_by_gezidan",
     "download_url": "https://tingshu1.coding.net/p/tingshu_ting22/d/tingshu_ting22/git/raw/master/sources_by_gezidan.jar",
-    "update_msg": "添加81听书网 /n修复芒果听书跳转错误的BUG /n移除一个无法收听的源网站",
+    "update_msg": "添加81听书网 \n添加520听书网 \n修复芒果听书跳转错误的BUG \n移除两个无法收听的源网站",
     "support_url": "https://tingshu1.coding.net/p/tingshu_ting22/d/tingshu_ting22/git/raw/master/1606634160547.png" 
 }
