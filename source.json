@@ -1,7 +1,7 @@
 {
-    "version": 25,
+    "version": 26,
     "entry_package": "sources_by_gezidan",
     "download_url": "https://tingshu1.coding.net/p/tingshu_ting22/d/tingshu_ting22/git/raw/master/sources_by_gezidan.jar",
-    "update_msg": "1.修复了一些BUG，优化了部分代码。源比较多，这也是个大工程，先上传一版",
+    "update_msg": "1.优化了部分代码。源比较多，这也是个大工程，先上传一版 \n2.修复听书谷无法播放，修复81听书网搜索功能\n3.移除源“天天听书”ttoow.com",
     "support_url": "https://tingshu1.coding.net/p/tingshu_ting22/d/tingshu_ting22/git/raw/master/1606634160547.png" 
 }
