@@ -1,7 +1,7 @@
 {
-    "version": 26,
+    "version": 27,
     "entry_package": "sources_by_gezidan",
     "download_url": "https://tingshu1.coding.net/p/tingshu_ting22/d/tingshu_ting22/git/raw/master/sources_by_gezidan.jar",
-    "update_msg": "1.优化了部分代码。源比较多，这也是个大工程，先上传一版 \n2.修复听书谷无法播放，修复81听书网搜索功能\n3.移除源“天天听书”ttoow.com",
+    "update_msg": "1.优化代码基本完成，如果发现BUG就及时@我 \n2.移除低分源和备用源，此订阅以后只收录优质源 \n3.移除源有“天天听书ttoow.com”\n“22听书m.ting22.com”\n“6月听书www.6yueting.com”\n“爱上你听书m.23ts.com”\n“56听书m.56tingshu.com”\n“88听书m.88tingshu.com”\n“520听书wap.fushu520.com”\n“爱听网m.lovetingwang.com”\n“起点听书m.qidian.in”n“54听书www.ting54.com”n“听书吗m.tingshuma.com”n“中文听书m.tingzh.com”",
     "support_url": "https://tingshu1.coding.net/p/tingshu_ting22/d/tingshu_ting22/git/raw/master/1606634160547.png" 
 }
