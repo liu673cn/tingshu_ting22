@@ -1,7 +1,7 @@
 {
-    "version": 36,
+    "version": 37,
     "entry_package": "sources_by_gezidan",
     "download_url": "https://tingshu1.coding.net/p/tingshu_ting22/d/tingshu_ting22/git/raw/master/sources_by_gezidan.jar",
-    "update_msg": "1.添加资源站“麻辣听书”\n m.malatingshu.com ",
+    "update_msg": "1.移除已经失效资源站“听书网”\n www.tingshu.co\n 2.修复芒果听书封面无法加载问题\n 3.修复一起听书网封面无法加载问题\n 4.修复天听网分类列表出现空的BUG",
     "support_url": "https://tingshu1.coding.net/p/tingshu_ting22/d/tingshu_ting22/git/raw/master/1606634160547.png" 
 }
