@@ -1,7 +1,7 @@
 {
-    "version": 38,
+    "version": 39,
     "entry_package": "sources_by_gezidan",
     "download_url": "https://tingshu1.coding.net/p/tingshu_ting22/d/tingshu_ting22/git/raw/master/sources_by_gezidan.jar",
-    "update_msg": "1.移除已经失效资源站“听书网”\n www.tingshu.co\n 2.修复芒果听书封面无法加载问题\n 3.修复一起听书网封面无法加载问题\n 4.修复天听网分类列表出现空的BUG\n 5.修复一些搜索图片加载错误\n 6.已经不兼容2.0.1以下版本",
+    "update_msg": "1.添加资源站资源站“6听网”\n www.6ting.cn\n2.看着我更想这么勤的份上给个打赏吧，我好买护肝片/滑稽\n",
     "support_url": "https://tingshu1.coding.net/p/tingshu_ting22/d/tingshu_ting22/git/raw/master/1606634160547.png" 
 }
