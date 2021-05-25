@@ -1,7 +1,7 @@
 {
-    "version": 40,
+    "version": 41,
     "entry_package": "sources_by_gezidan",
     "download_url": "https://tingshu1.coding.net/p/tingshu_ting22/d/tingshu_ting22/git/raw/master/sources_by_gezidan.jar",
-    "update_msg": "1.添加资源站“听书汇”\n aitinghua.cn\n2.修复28听书无法加载的问题，还有别的源慢慢修复吧\n3.非常感谢给我打赏的几位老板/比心",
+    "update_msg": "1.移除已失效资源站“听书谷”\n m.tingshugu.com\n2.修复456听书网无法加载的问题\n3.修复456听书网无法加载的问题\n4.修复一起听书网无法加载的问题\n如果还有什么问题可以直接私聊我，能解决的话我会尽快修复好的",
     "support_url": "https://tingshu1.coding.net/p/tingshu_ting22/d/tingshu_ting22/git/raw/master/1606634160547.png" 
 }
